@@ -1,4 +1,4 @@
-const CACHE_NAME = "LGörlotz-V1";
+const CACHE_NAME = "LGoerlitz-V1";
 const BASE = "/Landkreisgoerlitz/";
 
 self.addEventListener('install', (event) => {
