@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <script src="sw.js"></script>
+  
   <script>
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/Landkreisgoerlitz/sw.js')
@@ -16,6 +16,7 @@
       .catch(err => console.error("SW registration failed:", err));
   }
 </script>
+<script src="sw.js"></script>
 </body>
 
 </html>
