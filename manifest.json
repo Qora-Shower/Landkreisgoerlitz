@@ -1,0 +1,19 @@
+{
+  "lang": "de-DE",
+  "name": "Landkreis Görlitz",
+  "short_name": "Landkreis Görlitz",
+  "description": "Your all-in-one app for Roblox",
+  "start_url": "/Landkreisgoerlitz/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+  {
+    "src": "/Landkreisgoerlitz/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+
+}
